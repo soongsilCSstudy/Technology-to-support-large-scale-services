@@ -14,3 +14,7 @@
 * [정한 스터디 자료](https://wobbly-smell-e1c.notion.site/3-4d1a0bb41314436a8ca14bc0c9c02a75)  
 * [종훈 스터디 자료](https://jealous-texture-9af.notion.site/2-5-b999e7134c5646389a18b5a0a7ff8b60)
 -----
+
+### 2월 11일 스터디
+
+* [정한 스터디 자료](https://wobbly-smell-e1c.notion.site/4-beaac0a8438c4413a1d87911eb0a5fb8)
