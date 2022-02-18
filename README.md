@@ -21,4 +21,5 @@
 
 ------
 
+### 2월 19일 스터디
 * [정한 스터디 자료](https://wobbly-smell-e1c.notion.site/1-793cc8df411f48faba9e2405b209b0b5)
