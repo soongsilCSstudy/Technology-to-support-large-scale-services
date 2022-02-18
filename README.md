@@ -8,6 +8,7 @@
 
 -----
 ### 1월 29일 스터디
+* [종훈 스터디 자료](https://jealous-texture-9af.notion.site/1-29-d73ecfd57380421e9042a9bfc568399f)
 ----
 ### 2월 4일 스터디 
 
@@ -23,3 +24,4 @@
 
 ### 2월 19일 스터디
 * [정한 스터디 자료](https://wobbly-smell-e1c.notion.site/1-793cc8df411f48faba9e2405b209b0b5)
+* [종훈 스터디 자료](https://jealous-texture-9af.notion.site/1543fba7c8a646a9a499b7073862de54)
